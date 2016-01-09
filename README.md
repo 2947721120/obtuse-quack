@@ -23,7 +23,7 @@ The `iconfont` 文件夹中包含可包含在项目中的预生成的字体文�
 
 多读 [font portion](http://google.github.io/material-design-icons/#icon-font-for-the-web) 我们的全面开发指南。
 
-### Using symbols and sprites
+### 使用符号和精灵
 
 The `css-sprite` and `svg-sprite` folders contain pre-generated sprite sheets, as well as svg symbols that can be `<use>`d more directly and with fewer constraints. Instructions for using them are in the [sprites documentation](https://github.com/google/material-design-icons/tree/master/sprites).
 
