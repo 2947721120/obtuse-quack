@@ -1,27 +1,27 @@
-# Material design icons
+# 材料设计图标
 
-Material design icons are the official [icon set](http://www.google.com/design/spec/style/icons.html#icons-system-icons) from Google that are designed under the [material design guidelines](http://www.google.com/design/spec).
+材质设计图标是官方的 [icon set](http://www.google.com/design/spec/style/icons.html#icons-system-icons) 从谷歌设计的 [material design guidelines](http://www.google.com/design/spec).
 
-### 2.1 Update
+### 2.1更新
 
-The 2.1 update adds 96 new icons!
+2.1次更新增加了96个新的图标！
 
-Check out what's new in the [material icons library](https://www.google.com/design/icons/).
+检查出什么是新的[material icons library](https://www.google.com/design/icons/).
 
-## Getting Started
+## 开始
 
-Read the [developer guide](http://google.github.io/material-design-icons/) on how to use the material design icons in your project.
+Read the [developer guide](http://google.github.io/material-design-icons/) 关于如何在项目中使用材质设计图标。
 
-### Using a font collection
+### 使用字体集合
 
-The `iconfont` folder contains pre-generated font files that can be included in a project. This is especially convenient for the web; however, it is generally better to link to the web font hosted on Google Fonts:
+The `iconfont` 文件夹中包含可包含在项目中的预生成的字体文件。这是特别方便的网络，但是，它通常是更好地链接到网络字体托管在谷歌字体：
 
 ```html
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+<link href="https://fonts.lug.ustc.edu.cn/icon?family=Material+Icons"
       rel="stylesheet">
 ```
 
-Read more in the [font portion](http://google.github.io/material-design-icons/#icon-font-for-the-web) of our full developer guide.
+多读 [font portion](http://google.github.io/material-design-icons/#icon-font-for-the-web) 我们的全面开发指南。
 
 ### Using symbols and sprites
 
