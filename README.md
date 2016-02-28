@@ -17,7 +17,7 @@ Read the [developer guide](http://google.github.io/material-design-icons/) 关�
 The `iconfont` 文件夹中包含可包含在项目中的预生成的字体文件。这是特别方便的网络，但是，它通常是更好地链接到网络字体托管在谷歌字体：
 
 ```html
-<link href="https://fonts.lug.ustc.edu.cn/icon?family=Material+Icons"
+<link href="https://font.c2cmalls.com/icon?family=Material+Icons"
       rel="stylesheet">
 ```
 
@@ -29,7 +29,8 @@ The `css-sprite` and `svg-sprite` folders contain pre-generated sprite sheets, a
 
 ## Polymer icons
 
-If you wish to use the icon set with Polymer, we recommend consuming them via the [`<iron-icons>`](https://github.com/polymerelements/iron-icons) element ([`<core-icons>`](https://github.com/Polymer/core-icons) in v0.5).
+如果您想使用的图标集与聚合物，我们建议通过他们的消费
+[`<iron-icons>`](https://github.com/polymerelements/iron-icons) element ([`<core-icons>`](https://github.com/Polymer/core-icons) in v0.5).
 
 ## License
 
